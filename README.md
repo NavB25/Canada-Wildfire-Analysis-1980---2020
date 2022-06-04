@@ -3,6 +3,6 @@ After visiting Alberta and British Columbia this past summer, witnessing wildfir
 
 This analysis makes use of The Canadian National Fire Database (CNFDB) fire point dataset, which is a collection of forest fire locations collected by fire management agencies nationwide (https://cwfis.cfs.nrcan.gc.ca/datamart). 
 
-It is my hope that viewers of this analysis will walk away with a better understanding of the sheer scale of wildfires across the nation and more of an appreciation of the brave people who choose to fight these fires. 
+It is my hope that viewers of this analysis will walk away with a better understanding of the sheer scale of wildfires across the nation and more of an appreciation for the brave people who choose to fight these fires. 
 
 ![20210720_143351](https://user-images.githubusercontent.com/99494360/160700732-64fad04f-83ce-46c1-b4b3-70f135a70684.jpg)
