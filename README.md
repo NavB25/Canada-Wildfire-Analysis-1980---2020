@@ -1,4 +1,4 @@
-# Canada-Wildfire-Analysis-1980-2020
+# Canadian-Wildfire-Analysis-1980-2020
 After visiting Alberta and British Columbia this past summer, witnessing wildfires 35,000 feet in the air and seeing the Rockies enshrouded by a blanket of haze really put into perspective how large of an impact wildfire’s pose to both the environment and public health. But this was only part of the picture as BC and Alberta weren’t the only parts of Canada that were being ravaged by wildfires. The analysis that takes place in this notebook explores and visualizes the impact of wildfires across Canada. 
 
 This analysis makes use of The Canadian National Fire Database (CNFDB) fire point dataset, which is a collection of forest fire locations collected by fire management agencies nationwide (https://cwfis.cfs.nrcan.gc.ca/datamart). 
